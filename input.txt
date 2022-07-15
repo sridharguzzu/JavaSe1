@@ -1,0 +1,3 @@
+A sample text filed to work with JavaFileIO
+
+On Saturday, December 12th, from 10 A.M. until 4 P.M., Carverton Middle School will be holding a music festival in the school gymnasium. The special event will feature a variety of professional musicians and singers.
