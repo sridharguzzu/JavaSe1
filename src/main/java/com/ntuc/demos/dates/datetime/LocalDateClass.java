@@ -22,6 +22,9 @@ public class LocalDateClass {
         System.out.println("  " + ld.getMonth());
         System.out.println("  " + ld.getYear());
         System.out.println("-------------------------------------------------");
+        
+         ld.format(DateTimeFormatter.ofLocalizedDateTime(FormatStyle.MEDIUM));
+         JapaneseDate jd = JapaneseDate.from(ld);
 
         // setting at custom date
         LocalDate ldc = LocalDate.of(2021, 1, 1);

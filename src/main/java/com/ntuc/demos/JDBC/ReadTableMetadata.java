@@ -39,6 +39,7 @@ public class ReadTableMetadata {
 
         } catch (SQLException se) {
             System.out.println(se.getMessage());
+          
         }
     }
 }
